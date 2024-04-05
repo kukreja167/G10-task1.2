@@ -8,4 +8,8 @@ scanf("%d",&a);
 kkkkk
 dfkhgw
 }
+<<<<<<< HEAD
 hello
+=======
+hii
+>>>>>>> cc97c0ac788de311d03198c2c5543bcd6fb6b9e8
